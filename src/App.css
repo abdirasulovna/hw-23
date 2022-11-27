@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  top: 55px;
+}
+.BUTTON {
+  border-radius: 10px;
+  position: relative;
+  left: 435px;
+  top: 7px;
+  border-radius: 10px;
+}
+.button-completed {
+  border-radius: 10px;
+  position: relative;
+  width: 75px;
+  height: 30px;
+  top: 45px;
+}
+.button1 {
+  top: 50px;
+  border-radius: 10px;
+  position: relative;
+  right: 450px;
+  width: 70px;
+  height: 30px;
+}
+input {
+  border-radius: 10px;
+  width: 400px;
+  height: 45px;
+}
+.button2 {
+  border-radius: 10px;
+  width: 90px;
+  height: 50px;
+}
